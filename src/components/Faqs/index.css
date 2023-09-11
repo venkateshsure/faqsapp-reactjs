@@ -1,0 +1,32 @@
+/* Write your code here. */
+
+.faq {
+  display: flex;
+  background-color: #f1f5f8;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.faq-con {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  width: 80%;
+}
+
+.head {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #cb8805;
+}
+
+.ul-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+}
